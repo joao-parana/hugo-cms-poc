@@ -10,7 +10,7 @@ This setup everything I needed for running the CMS:
 
 * This new repository in my GitHub account with the code
 * Full Continuous Deployment to Netlify's global CDN network
-* Control users and access with Netlify Identity
+* Control users and access with Netlify Identity (setup Oauth via Github using https://github.com/settings/developers)
 * Manage content with Netlify CMS
 
 Once the initial build finishes, I can invite myself as a user. Go to the Identity tab in your new site, click "Invite" and send myself an invite.
