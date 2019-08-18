@@ -4,18 +4,16 @@ This is a small business template built with [Victor Hugo](https://github.com/ne
 
 ## Getting started
 
-Use our deploy button to get your own copy of the repository. 
+This repo was built using deploy button on netlify. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+This setup everything I needed for running the CMS:
 
-This will setup everything needed for running the CMS:
-
-* A new repository in your GitHub account with the code
+* This new repository in my GitHub account with the code
 * Full Continuous Deployment to Netlify's global CDN network
 * Control users and access with Netlify Identity
 * Manage content with Netlify CMS
 
-Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
+Once the initial build finishes, I can invite myself as a user. Go to the Identity tab in your new site, click "Invite" and send myself an invite.
 
 Now you're all set, and you can start editing content!
 
